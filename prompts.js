@@ -9,10 +9,10 @@ Requirements that you must obey:
 
 {
     "similarities": "keyword 1, keyword 2, keyword 3",
-    "iceBreakingQuestions (profile 1 (name) to profile 2 (name))": ["Q1", "Q2", "Q3"],
-    "explanations (profile 1 (name) to profile 2 (name))": ["E1", "E2", "E3"],
-    "iceBreakingQuestions (profile 2 (name) to profile 1 (name))": ["Q1", "Q2", "Q3"]
-    "explanations (profile 2 (name) to profile 1 (name))": ["E1", "E2", "E3"],
+    "iceBreakingQuestions (profile 1 to profile 2)": ["Q1", "Q2", "Q3"],
+    "explanations (profile 1 to profile 2)": ["E1", "E2", "E3"],
+    "iceBreakingQuestions (profile 2 to profile 1)": ["Q1", "Q2", "Q3"]
+    "explanations (profile 2 to profile 1)": ["E1", "E2", "E3"],
 }
 
 """
